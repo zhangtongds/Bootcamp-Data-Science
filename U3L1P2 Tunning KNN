@@ -1,0 +1,3 @@
+Get the spending for every people that put in each category as the four dimension variable, 
+and get the data of if they are paying on time as the binary variables. Use this dataset as the training set and 
+apply KNN.
